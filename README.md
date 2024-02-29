@@ -1,6 +1,9 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![JCS-ELPA](https://raw.githubusercontent.com/jcs-emacs/badges/master/elpa/v/flymake-dart.svg)](https://jcs-emacs.github.io/jcs-elpa/#/flymake-dart)
 
+<img align="right" width="52" alt="flutter_logo" src="images/flutter-logo.svg">
+<img align="right" width="64" alt="dart_logo" src="images/logo.svg">
+
 # flymake-dart
 > Flymake support for dart analyze
 
