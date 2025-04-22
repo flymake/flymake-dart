@@ -1,3 +1,5 @@
+;; -*- mode: eask; lexical-binding: t -*-
+
 (package "flymake-dart"
          "0.1.0"
          "Flymake support for dart analyze")
